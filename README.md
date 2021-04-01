@@ -24,5 +24,6 @@ Gets result and compares them. Will return true if both output are same, false o
 the subjects target.c and solution.c 's aim is to receive a string from it's parent's processor via pipe, and calculate the length of the string.
 
 # What I couldn't implement
-Measuring time for each process.
+Measuring time for each process
+
 Implementing error signals
